@@ -1,6 +1,8 @@
 # youtubeDownloader
 My first Python project. It uses pytube for the back-end and tkinter for the GUI. Run the download_app.py to get started.
 
+:triangular_flag_on_post: Before starting, go to line 98 and paste an absolute path for your desired download location :triangular_flag_on_post:
+
 Search Options
 1. Paste URL
 2. Search YouTube directly through search bar
