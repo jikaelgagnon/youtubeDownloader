@@ -1,7 +1,9 @@
 # youtubeDownloader
-My first Python project. It uses pytube for the back-end and tkinter for the GUI. Run the download_app.py to get started.
+My first Python project. It uses pytube for the back-end and tkinter for the GUI.
 
 :triangular_flag_on_post: Before starting, go to line 98 and paste an absolute path for your desired download location :triangular_flag_on_post:
+
+:checkered_flag: Run the download_app.py to get started. :checkered_flag:
 
 Search Options
 1. Paste URL
