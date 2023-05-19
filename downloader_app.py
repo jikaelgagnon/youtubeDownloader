@@ -95,7 +95,7 @@ def display_streams(streams, window):
     
     for stream in streams:
         button = ttk.Button(window, text = create_stream_info(stream),
-                            command = lambda k = stream: [k.download(r"C:\Users\Jikael\Music\Songs"), window.destroy(), downloaded_stream_window()])
+                            command = lambda k = stream: [k.download(r"PASTE DOWNLOAD PATH HERE"), window.destroy(), downloaded_stream_window()])
         if column == 9:
             column = 0
             row += 1
