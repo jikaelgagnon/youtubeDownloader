@@ -1,0 +1,17 @@
+Before starting, here is some important information:
+
+There are four download formats:
+- Video
+- Audio
+- Audio and Video (Split)
+- Audio and Video (Combined)
+
+Downloading both combined can be practical, but it limits the video quality to
+a maximum of 720p. If you seek higher quality you can use external programs to merge 
+audio and video.
+
+To fully close the program, press on the 'QUIT' button at the bottom of the screen; the 
+'X' button in the top corner is not sufficient.
+
+
+Once you're ready to go, click on the start button below!
